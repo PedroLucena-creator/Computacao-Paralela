@@ -29,8 +29,8 @@ int main()
         }
         else
         {
-            printf("Parentprocess: |%d|\n", getppid());
-            printf("Childprocess:|%d|\n",   getpid());
+            printf("Parentprocess:|%d|\n", getppid());
+            printf("Childprocess: |%d|\n",   getpid());
             i = i * j;
             if (j == 2)
                 printf("\nThe factorial of %d is %d\n", num, i);
