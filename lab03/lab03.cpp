@@ -41,7 +41,7 @@ void imprimeVetor(PESSOA povo[10], int i, FILE* resultado)
     }
 }
 
-PESSOA leDadosUmaPessoa(FILE* Arq)
+PESSOA Dadosdepessoa(FILE* Arq)
 {
     PESSOA i;
     fscanf(Arq, "\n%s", &i.nome);
@@ -97,7 +97,7 @@ int main()
     {
         while (!feof(Arq))
         {
-            P = leDadosUmaPessoa(Arq);
+            P = Dadosdepessoa(Arq);
             Povo[i] = P;
             i++;
         }
