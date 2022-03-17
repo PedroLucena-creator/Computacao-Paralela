@@ -14,7 +14,7 @@ Primeiro coloque o txt na pasta onde rodará o codigo. Logo depois que
 
 
 
-Resultado do codigo em execução.
+Resultado do codigo em execução ?
 
  Nome:Joana
  idade:40
