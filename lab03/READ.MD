@@ -4,7 +4,7 @@ Para compilarmos usamos o Visual Studio.
 
 Como executar o programa ?
 
-Primeiro coloque o txt na pasta onde rodará o codigo. Logo depois que
+Primeiro coloque o txt na pasta onde rodará o codigo. Logo depois faça a depuração. Depois que terminar, um arquivo será criano no mesmo lugar do outro txt no nome resultado com a ordem correta.
 
 
 
