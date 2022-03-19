@@ -66,7 +66,7 @@ int comparacao(const void *p1, const void *p2)
 int compar(const void* p1, const void* p2)
 {
     if ((*(PESSOA*)p1).altura == ((*(PESSOA*)p2).altura))
-        return 0; //iguais
+        return 0; 
     else
         if ((*(PESSOA*)p1).altura < ((*(PESSOA*)p2).altura))
             return -1; 
