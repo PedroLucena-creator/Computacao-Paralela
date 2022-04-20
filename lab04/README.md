@@ -1,10 +1,10 @@
 ### Como compilar o programa na plataforma disponibilizada?
 
-Copie o codigo no site do replit.
+No linux eu utilizei o site replit.
 
 ### Como executar o programa?
 
-No linux eu utilizei o site replit.
+Copie o codigo e cole no replit
 
 ### Como comprovar que os resultados propostos foram alcançados?
 
