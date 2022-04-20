@@ -1,6 +1,6 @@
 ### Como compilar o programa na plataforma disponibilizada?
 
-Copie o codigo no linux no site do replit.
+Copie o codigo no site do replit.
 
 ### Como executar o programa?
 
