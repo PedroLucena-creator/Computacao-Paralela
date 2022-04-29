@@ -3,9 +3,10 @@
 
 import math
 
-x = 1
 S = 0
-for i in range(10):
-    S += x**i/math.factorial(i)
-    
+for i in range(11):
+    if i == 0:
+        pass
+    else:
+        S += 1/i
 print(S)
